@@ -1,0 +1,37 @@
+/* MenuPage.css */
+
+.container {
+    padding: 20px;
+    text-align: center;
+
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .list-group-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+    border: solid;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #f7f7f7;
+  }
+  
+  .list-group-item img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 20px;
+  }
+  
+  .img-thumbnail {
+    border: solid 3px;
+    border-radius: 10px;
+  }
+  
+  
